@@ -16,7 +16,7 @@ Feel free to check out my repos. Don’t got that many right now, will unprivate
 
 <details><summary><h2>🚀 Projects</h2></summary>
 
-Here’s the stuff I’ve actually finished (or at least finished *enough* to move on).  
+Here’s the stuff I’ve actually finished
 
 <details><summary><h3>Flippy Tile</h3></summary>
 
@@ -50,7 +50,7 @@ Here’s the stuff I’ve actually finished (or at least finished *enough* to mo
 
 <details><summary><h2>🛠️ Works in Progress</h2></summary>
 
-These are the things I’m *currently* working on (or at least thinking about working on).  
+stuffs im working on
 
 <details><summary><h3>OrBit - Online Interpreter</h3></summary>
 
@@ -75,7 +75,7 @@ These are the things I’m *currently* working on (or at least thinking about wo
 
 <details><summary><h2>🌟 Future Plans</h2></summary>
 
-Things I *might* do if I ever feel like it.  
+what i wanna do later
 
 <details><summary><h3>Use Godot</h3></summary>
 
