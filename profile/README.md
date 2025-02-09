@@ -1,13 +1,27 @@
-# CoolStop - Studio
+# CoolStop - Studio  
 
-<details><summary><h2>Projects</h2></summary>
+<details><summary><h2>👋 Welcome</h2></summary>
 
-A list of all projects I've made:
+CoolStop Studio is my personal organization, grouping and organizing all my accounts:
+
+- **CoolStopSchool** – my school account  
+- **CoolStopCode** – home account  
+- **GarrisonCool1** – my original account, im locked out  
+
+Feel free to check out my repos. Don’t got that many right now, will unprivate some more soon.  
+
+</details>
+
+---
+
+<details><summary><h2>🚀 Projects</h2></summary>
+
+Here’s the stuff I’ve actually finished (or at least finished *enough* to move on).  
 
 <details><summary><h3>Flippy Tile</h3></summary>
 
-- A fun and simple game about flipping tiles  
-- A static page with no internet connection required  
+- A simple game about flipping tiles  
+- No internet required, just a static page  
 - Great for speedrunning  
 - Make the whole grid the same color to win  
 
@@ -15,18 +29,18 @@ A list of all projects I've made:
 
 <details><summary><h3>GDS Chat</h3></summary>
 
-- A cool, easy-to-use chat app with no email required  
-- Just a username and password, then you can message anybody  
-- No censorship, limitations, or moderation  
-- Group chats and a ton of settings! (GDS Chat 4)  
+- A chat app that doesn’t ask for an email  
+- Just pick a username and password, then message people  
+- No censorship, no limitations, no moderation  
+- Group chats + a ton of settings (GDS Chat 4)  
 
 </details>
 
-<details><summary><h3>Gary's RNG</h3></summary>
+<details><summary><h3>Gary’s RNG</h3></summary>
 
-- A fun game about rolling for random chances  
-- Working inventory to keep track of everything you've rolled  
-- Inspired by the popular game Sol's RNG  
+- A game about rolling for random chances  
+- Has an inventory system to track everything you’ve rolled  
+- Inspired by Sol’s RNG  
 
 </details>
 
@@ -34,22 +48,24 @@ A list of all projects I've made:
 
 ---
 
-<details><summary><h2>Works in Progress</h2></summary>
+<details><summary><h2>🛠️ Works in Progress</h2></summary>
+
+These are the things I’m *currently* working on (or at least thinking about working on).  
 
 <details><summary><h3>OrBit - Online Interpreter</h3></summary>
 
-- An interpreter for a powerful programming language I designed  
-- Similar to TypeScript  
-- Includes variable "Modifiers" that change how a variable works  
-- Built to be logical and predictable  
+- An interpreter for a programming language I made  
+- Kinda like TypeScript but different  
+- Has “Modifiers” that change how variables work  
+- Built to be logical and predictable (unlike JavaScript)  
 
 </details>
 
 <details><summary><h3>Panda TD X</h3></summary>
 
 - A tower defense game about pandas and bamboo  
-- Originally a Scratch game I made, now revamped and ported to JS  
-- My most ambitious project yet  
+- Originally a Scratch game I made, now ported to JS  
+- My most ambitious project so far  
 
 </details>
 
@@ -57,30 +73,32 @@ A list of all projects I've made:
 
 ---
 
-<details><summary><h2>Future Plans</h2></summary>
+<details><summary><h2>🌟 Future Plans</h2></summary>
+
+Things I *might* do if I ever feel like it.  
 
 <details><summary><h3>Use Godot</h3></summary>
 
-- I have some experience, but not much  
-- Want to make real games on Steam or something  
-- Maybe actually make some $$$  
-- (Sorry, I’m poor)  
+- I know a little, but not much  
+- Want to make actual games for Steam or something  
+- Maybe even make some $$$  
+- (I am broke)  
 
 </details>
 
 <details><summary><h3>Panda TD 2 X</h3></summary>
 
-- Far future  
-- Maybe create it with Godot or a real language (not JS)  
-- More like PT2 but not in Scratch, plus other stuff  
+- Maybe someday  
+- Probably in Godot instead of JavaScript  
+- Basically Panda TD but actually a *real* game  
 
 </details>
 
 <details><summary><h3>Flippy Tile 2</h3></summary>
 
-- Sequel to Flippy Tile  
-- An actual game, not just a toy website to mess around with  
-- Maybe in Godot, maybe in JS (probably JS since an online game makes more sense for this)  
+- A sequel to Flippy Tile  
+- This time, an actual game, not just a toy website  
+- Might be in Godot, might stay in JS (since online multiplayer makes sense for this)  
 
 </details>
 
@@ -88,24 +106,27 @@ A list of all projects I've made:
 
 ---
 
-<details><summary><h2>About Me</h2></summary>
+<details><summary><h2>👤 About Me</h2></summary>
 
-- Fresh web game developer  
-- Unprofessional  
-- I hate JS but don’t really want to learn a different language, so I keep using it  
-
+- new to programming
+- Unprofessional
+- I hate JavaScript, but I keep using it anyway  
+- US 🇺🇸
+- super cool
+- I hate writing READMEs
+- 
 </details>
 
 ---
 
-<details><summary><h2>My Questions About Life</h2></summary>
+<details><summary><h2>🤔 My Questions About Life</h2></summary>
 
-- Why would anyone use VS2022 when VS Code exists?  
-- Why doesn’t Windows have the built-in ability to compile & run C and C++?  
-- Why does CSS have to be so dumb?  
-- Who thought JavaScript error messages should be so pointless?  
-- How do I get traction on my projects?  
-- Why am I still writing these?  
-- Why am I even putting so much effort into this README when nobody will see it anyway?  
+- Why would anyone use VS2022 when VSCode exists
+- Why doesn’t Windows come with a built-in way to run C and C++
+- Why CSS exist so bad
+- Who designed JavaScript error messages
+- How do I actually get traction on my projects  
+- Why am I still writing these
+- Why am I putting so much effort into this README that nobody will see anyway
 
 </details>
