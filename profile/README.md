@@ -95,23 +95,6 @@ Stuffs im working on now
 
 What I want to do later
 
-<details><summary><h3>Use Godot</h3></summary>
-
-- I know a little, but not much  
-- Want to make actual games for Steam or something  
-- Maybe even make some $$$  
-- (I am broke)  
-
-</details>
-
-<details><summary><h3>Panda TD 2 X</h3></summary>
-
-- Maybe someday  
-- Probably in Godot instead of JavaScript  
-- Basically Panda TD but actually a *real* game  
-
-</details>
-
 <details><summary><h3>Flippy Tile 2</h3></summary>
 
 - A sequel to Flippy Tile  
