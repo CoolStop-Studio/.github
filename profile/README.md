@@ -134,17 +134,3 @@ what i wanna do later
 - I hate writing READMEs
 - 
 </details>
-
----
-
-<details><summary><h2>🤔 My Questions About Life</h2></summary>
-
-- Why would anyone use VS2022 when VSCode exists
-- Why doesn’t Windows come with a built-in way to run C and C++
-- Why CSS exist so bad
-- Who designed JavaScript error messages
-- How do I actually get traction on my projects  
-- Why am I still writing these
-- Why am I putting so much effort into this README that nobody will see anyway
-
-</details>
