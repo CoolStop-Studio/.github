@@ -68,16 +68,7 @@ Here’s the stuff I’ve actually finished
 
 <details><summary><h2>🛠️ Works in Progress</h2></summary>
 
-stuffs im working on
-
-<details><summary><h3>OrBit - Online Interpreter</h3></summary>
-
-- An interpreter for a programming language I made  
-- Kinda like TypeScript but different  
-- Has “Modifiers” that change how variables work  
-- Built to be logical and predictable (unlike JavaScript)  
-
-</details>
+Stuffs im working on now
 
 <details><summary><h3>Panda TD X</h3></summary>
 
@@ -87,13 +78,22 @@ stuffs im working on
 
 </details>
 
+<details><summary><h3>Kiwi4</h3></summary>
+
+- 4 bit fantasy console
+- Written in C++
+- Very simple and clean
+- Great for making quick 2d games
+
+</details>
+
 </details>
 
 ---
 
 <details><summary><h2>🌟 Future Plans</h2></summary>
 
-what i wanna do later
+What I want to do later
 
 <details><summary><h3>Use Godot</h3></summary>
 
