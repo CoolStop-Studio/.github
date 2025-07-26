@@ -44,6 +44,24 @@ Here’s the stuff I’ve actually finished
 
 </details>
 
+<details><summary><h3>Cookies & Cliffs</h3></summary>
+
+- A short Celeste-inspired platformer
+- You play as a kind old grandmother climbing a mountain
+- You have special abilities
+- Huge focus on audio and music
+
+</details>
+
+<details><summary><h3>Tippy Trip</h3></summary>
+
+- A fun and quick driving game
+- 2d side view
+- Playful SFX and graphics
+- Made in 2 weeks
+
+</details>
+
 </details>
 
 ---
